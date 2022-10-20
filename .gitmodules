@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AlpsNMR"]
+	path = AlpsNMR
+	url = https://github.com/sipss/alpsnmr
+	shallow = true
+	registered = true
